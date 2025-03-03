@@ -85,7 +85,12 @@ const config = {
             position: 'left',
             label: 'Documentaion',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type:"doc",
+            docId:"ui-overView",
+            position:"left",
+            label:"Ui OverView"
+          },
           {
             href: 'https://github.com/ELIASyASSER/Crypto-Price-Tracker',
             label: 'GitHub',
