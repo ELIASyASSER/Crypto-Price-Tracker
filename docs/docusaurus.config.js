@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'crypto currency tracker',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -83,11 +83,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentaion',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ELIASyASSER/Crypto-Price-Tracker',
             label: 'GitHub',
             position: 'right',
           },

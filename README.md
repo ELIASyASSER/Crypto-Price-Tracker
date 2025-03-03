@@ -41,3 +41,4 @@ cd crypto-tracker
 
   i solve this problem by using redux toolkit 
 
+![Crypto Currency](./crypto.png)
